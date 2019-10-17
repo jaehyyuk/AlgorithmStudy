@@ -1,4 +1,4 @@
-package no1799비숍;
+package no1799BISHOP;
 
 /*dfs+백트래킹을 활용한 문제
  * 
